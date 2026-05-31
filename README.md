@@ -72,3 +72,4 @@ Graphical User Interface
 
 **Conclusion**
 The project successfully demonstrates secure authentication, encryption, decryption and file integrity verification using DevSecOps principles. It provides practical implementation of cybersecurity concepts and secure software development practices.
+The project was developed collaboratively using separate branches for each member's responsibilities. However, the repository owner performed the final integration and push process. Individual contributions are documented in the report and
