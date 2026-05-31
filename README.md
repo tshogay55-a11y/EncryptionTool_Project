@@ -40,23 +40,6 @@ Hashing Validation Testing
 File Integrity Testing
 Functional Testing
 
-**Team Members**
-Kinley Drukpa (CIHE240484)
-Responsibilities:
-Login System
-RBAC Implementation
-Two-Factor Authentication
-Tshojay Lhamo (CIHE240600)
-Responsibilities:
-AES Encryption and Decryption
-RSA Encryption and Decryption
-Cryptographic Key Management
-Pema Wangdi (CIHE240521)
-Responsibilities:
-Hashing Functions
-File Integrity Verification
-Documentation and Testing
-
 **DevSecOps Practices**
 Secure Coding
 Version Control using GitHub
@@ -73,3 +56,59 @@ Graphical User Interface
 **Conclusion**
 The project successfully demonstrates secure authentication, encryption, decryption and file integrity verification using DevSecOps principles. It provides practical implementation of cybersecurity concepts and secure software development practices.
 The project was developed collaboratively using separate branches for each member's responsibilities. However, the repository owner performed the final integration and push process. Individual contributions are documented in the report and
+
+**Setup Instructions**
+**Prerequisites**
+
+Ensure the following software is installed:
+
+Python 3.12 or later
+Jupyter Notebook
+Git (optional, for cloning the repository)
+Clone the Repository
+git clone https://github.com/tshogay55-a11y/EncryptionTool_Project.git
+cd EncryptionTool_Project
+Install Required Dependencies
+
+Install the required Python packages using:
+
+pip install -r requirements.txt
+Launch Jupyter Notebook
+
+Start Jupyter Notebook by running:
+
+jupyter notebook
+Run the Project
+Open code.ipynb.
+Select a Python kernel.
+Click Run All to execute all notebook cells.
+Login using the demo credentials provided in the project.
+Use the menu options to access:
+AES Encryption/Decryption
+RSA Encryption/Decryption
+Hashing Functions
+File Integrity Checking
+Demo User Credentials
+
+Admin User
+
+Username: admin
+Password: admin123
+
+Standard User
+
+Username: user
+Password: user123
+
+**Project Features**
+Role-Based Access Control (RBAC)
+Two-Factor Authentication (2FA)
+AES Symmetric Encryption
+RSA Asymmetric Encryption
+MD5, SHA-256 and SHA-512 Hashing
+File Integrity Verification
+
+**Team Members**
+Kinley Drukpa – Authentication, RBAC and 2FA
+Tshojay Lhamo – AES/RSA Encryption and Decryption
+Pema Wangdi – Hashing, Integrity Verification and Documentation
