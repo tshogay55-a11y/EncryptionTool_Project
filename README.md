@@ -8,6 +8,7 @@ Provide AES and RSA encryption/decryption capabilities.
 Generate and verify cryptographic hashes.
 Detect file tampering through integrity verification.
 Demonstrate DevSecOps concepts in secure software development.
+
 **Technologies Used**
 Python
 Cryptography Library
@@ -38,30 +39,31 @@ RSA Encryption/Decryption Testing
 Hashing Validation Testing
 File Integrity Testing
 Functional Testing
+
 **Team Members**
 Kinley Drukpa (CIHE240484)
 Responsibilities:
 Login System
 RBAC Implementation
 Two-Factor Authentication
-
 Tshojay Lhamo (CIHE240600)
 Responsibilities:
 AES Encryption and Decryption
 RSA Encryption and Decryption
 Cryptographic Key Management
-
 Pema Wangdi (CIHE240521)
 Responsibilities:
 Hashing Functions
 File Integrity Verification
 Documentation and Testing
+
 **DevSecOps Practices**
 Secure Coding
 Version Control using GitHub
 Branch-Based Collaboration
 Continuous Testing
 Threat-Aware Development
+
 **Future Improvements**
 Cloud Deployment
 Intrusion Detection System Integration
