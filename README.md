@@ -69,6 +69,6 @@ Cloud Deployment
 Intrusion Detection System Integration
 Advanced Monitoring
 Graphical User Interface
-Conclusion
 
+**Conclusion**
 The project successfully demonstrates secure authentication, encryption, decryption and file integrity verification using DevSecOps principles. It provides practical implementation of cybersecurity concepts and secure software development practices.
