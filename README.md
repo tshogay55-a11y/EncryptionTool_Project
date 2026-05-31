@@ -111,4 +111,4 @@ File Integrity Verification
 **Team Members**
 Kinley Drukpa – Authentication, RBAC and 2FA
 Tshojay Lhamo – AES/RSA Encryption and Decryption
-Pema Wangdi – Hashing, Integrity Verification and Documentation
+Pema Wangdi – Hashing, Integrity Verification
