@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+aes.key
+public.pem
+private.pem
+
+.ipynb_checkpoints/
